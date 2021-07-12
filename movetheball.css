@@ -1,0 +1,30 @@
+#main{
+
+width: 97vw;
+height: 97vh;
+border: 2px solid burlywood;
+background-color: whitesmoke;
+
+
+
+}
+#ball{
+
+  height: 5em;
+  width: 5em;
+  background-color:#29AB84;
+  border-radius: 50%;
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  
+
+}
+/* .ballup {
+  transform: translateY(-10px);
+
+}
+.balldw {
+  transform: translateY(10px);
+
+} */
